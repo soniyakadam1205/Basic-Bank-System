@@ -1,10 +1,15 @@
 # The Sparks Foundation Internship
+
 Sparks Foundation Internship Project : Basic Banking System  
+
 A Web Application used to transfer money between multiple users. User creation can also be done.  
 
 Tech Stack used - 
+
 Front-end : HTML, CSS, Bootstrap & Javascript 
+
 Back-end : PHP 
+
 Database : Postgres   
 
 Database contains two Tables- Users Table & Transaction Table 
